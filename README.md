@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Kaif Ayaz Khan
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me via mail kaifayaz@student.iul.ac.in
 
 <!---
 KaifKhan7393/KaifKhan7393 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
