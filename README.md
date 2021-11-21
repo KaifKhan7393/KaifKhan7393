@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kaif Ayaz Khan
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Web Development
+- 🌱 Currently I'm learning Web Development
 - 📫 You can reach me via mail kaifayaz@student.iul.ac.in
 
 <!---
