@@ -4,7 +4,7 @@
 
 <img src ="https://c.tenor.com/BqbIhT4Mb7cAAAAM/programmer-rounded-edges.gif" width="400px" align="right">
 
-- 🌱 I’m currently exploring **React Js and Express**
+- 🌱 I’m currently exploring **React Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KaifKhan7393/](https://github.com/KaifKhan7393/)
 
