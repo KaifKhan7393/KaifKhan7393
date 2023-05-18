@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently exploring **React Js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KaifKhan7393/](https://github.com/kaifayazkhan/)
+- 👨‍💻 All of my projects are available at [https://github.com/kaifayazkhan/](https://github.com/kaifayazkhan/)
 
 - 📫 How to reach me **kaifayazkhan@gmail.com**
 
