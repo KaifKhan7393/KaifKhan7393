@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently exploring **React Js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KaifKhan7393/](https://github.com/KaifKhan7393/)
+- 👨‍💻 All of my projects are available at [https://github.com/KaifKhan7393/](https://github.com/kaifayazkhan/)
 
-- 📫 How to reach me **kkhan.7393.kaif@gmail.com**
+- 📫 How to reach me **kaifayazkhan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kaif-ayaz-khan-0ab979211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaif-ayaz-khan-0ab979211/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kaif-ayaz-khan-0ab979211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaifayazkhan/" height="30" width="40" /></a>
 <a href="https://instagram.com/kaifkhan_26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaifkhan_26" height="30" width="40" /></a>
 </p>
 
