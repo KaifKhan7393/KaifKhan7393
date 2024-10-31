@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Kaif Ayaz Khan</h1>
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQF6gmfeyIxGmw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723366555914?e=1729123200&v=beta&t=HUPJ_PUc-mz-fGqiUe9n-24byfYBAYwYrsDPufpDSZc" width="100%">
+<img src="[https://media.licdn.com/dms/image/v2/D5616AQF6gmfeyIxGmw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723366555914?e=1729123200&v=beta&t=HUPJ_PUc-mz-fGqiUe9n-24byfYBAYwYrsDPufpDSZc](https://media.licdn.com/dms/image/v2/D5616AQF6gmfeyIxGmw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723366555914?e=1735776000&v=beta&t=XNzPTM4oRi_ywB-KiH0KcU1AeFjxYrxO4qpR7JHZtPY)" width="100%">
 
 
 ## About me
